@@ -15,4 +15,3 @@ This is a fun little tkinter program that tests your intelligence! It features a
 
 - [@ajuroshan](https://www.github.com/ajuroshan)
 
-Feel free to customize the emojis and add more playful elements to make the program even more entertaining! Have fun playing and enjoy the surprises!
